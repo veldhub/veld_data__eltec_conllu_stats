@@ -1,0 +1,602 @@
+[
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA00101_Adam.xml",
+        "conllu_stats": {
+            "token_count": 25517
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA00102_Adam.xml",
+        "conllu_stats": {
+            "token_count": 34625
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA00201_Audoux.xml",
+        "conllu_stats": {
+            "token_count": 41192
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA00301_Aimard.xml",
+        "conllu_stats": {
+            "token_count": 103609
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA00302_Aimard.xml",
+        "conllu_stats": {
+            "token_count": 164187
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA00401_Allais.xml",
+        "conllu_stats": {
+            "token_count": 45716
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA00501_Balzac.xml",
+        "conllu_stats": {
+            "token_count": 43598
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA00502_Balzac.xml",
+        "conllu_stats": {
+            "token_count": 130614
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA00503_Balzac.xml",
+        "conllu_stats": {
+            "token_count": 101558
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA00601_Boisgobey.xml",
+        "conllu_stats": {
+            "token_count": 107927
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA00602_Boisgobey.xml",
+        "conllu_stats": {
+            "token_count": 120693
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA00701_Carraud.xml",
+        "conllu_stats": {
+            "token_count": 63335
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA00801_Dash.xml",
+        "conllu_stats": {
+            "token_count": 53236
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA00901_Daudet.xml",
+        "conllu_stats": {
+            "token_count": 106147
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01002_DelarueMardrus.xml",
+        "conllu_stats": {
+            "token_count": 42602
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01101_Dombre.xml",
+        "conllu_stats": {
+            "token_count": 58703
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01102_Dombre.xml",
+        "conllu_stats": {
+            "token_count": 28854
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01201_Feval.xml",
+        "conllu_stats": {
+            "token_count": 158208
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01202_Feval.xml",
+        "conllu_stats": {
+            "token_count": 120802
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01203_Feval.xml",
+        "conllu_stats": {
+            "token_count": 91822
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01301_Flaubert.xml",
+        "conllu_stats": {
+            "token_count": 186130
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01302_Flaubert.xml",
+        "conllu_stats": {
+            "token_count": 145338
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01303_Flaubert.xml",
+        "conllu_stats": {
+            "token_count": 130399
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01401_Fleuriot.xml",
+        "conllu_stats": {
+            "token_count": 41430
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01402_Fleuriot.xml",
+        "conllu_stats": {
+            "token_count": 42076
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01403_Fleuriot.xml",
+        "conllu_stats": {
+            "token_count": 73498
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01501_France.xml",
+        "conllu_stats": {
+            "token_count": 86345
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01601_GautierJ.xml",
+        "conllu_stats": {
+            "token_count": 126285
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01602_GautierJ.xml",
+        "conllu_stats": {
+            "token_count": 62159
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01603_GautierJ.xml",
+        "conllu_stats": {
+            "token_count": 36248
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01701_GautierT.xml",
+        "conllu_stats": {
+            "token_count": 46354
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01801_Gay.xml",
+        "conllu_stats": {
+            "token_count": 216000
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA01902_Gaboriau.xml",
+        "conllu_stats": {
+            "token_count": 318678
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA02001_Gilbert.xml",
+        "conllu_stats": {
+            "token_count": 24873
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA02101_Girardin.xml",
+        "conllu_stats": {
+            "token_count": 84063
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA02201_Gouraud.xml",
+        "conllu_stats": {
+            "token_count": 53196
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA02202_Gouraud.xml",
+        "conllu_stats": {
+            "token_count": 49085
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA02203_Gouraud.xml",
+        "conllu_stats": {
+            "token_count": 51400
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA02301_Greville.xml",
+        "conllu_stats": {
+            "token_count": 70694
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA02302_Greville.xml",
+        "conllu_stats": {
+            "token_count": 66622
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA02303_Greville.xml",
+        "conllu_stats": {
+            "token_count": 61987
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA02401_LeRouge.xml",
+        "conllu_stats": {
+            "token_count": 28843
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA02501_Loti.xml",
+        "conllu_stats": {
+            "token_count": 88147
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA02601_Malot.xml",
+        "conllu_stats": {
+            "token_count": 82813
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA02602_Malot.xml",
+        "conllu_stats": {
+            "token_count": 142969
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA02603_Malot.xml",
+        "conllu_stats": {
+            "token_count": 122047
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA02701_Maupassant.xml",
+        "conllu_stats": {
+            "token_count": 135544
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA02702_Maupassant.xml",
+        "conllu_stats": {
+            "token_count": 92934
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA02802_Mirbeau.xml",
+        "conllu_stats": {
+            "token_count": 77501
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA02901_Noailles.xml",
+        "conllu_stats": {
+            "token_count": 66468
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA03001_Ohnet.xml",
+        "conllu_stats": {
+            "token_count": 138643
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA03002_Ohnet.xml",
+        "conllu_stats": {
+            "token_count": 64713
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA03003_Ohnet.xml",
+        "conllu_stats": {
+            "token_count": 60786
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA03101_Ponson.xml",
+        "conllu_stats": {
+            "token_count": 81182
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA03201_Blandy.xml",
+        "conllu_stats": {
+            "token_count": 96476
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA03302_Rattazzi.xml",
+        "conllu_stats": {
+            "token_count": 66908
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA03401_Reybaud.xml",
+        "conllu_stats": {
+            "token_count": 44822
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA03601_Proust.xml",
+        "conllu_stats": {
+            "token_count": 209536
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA03701_Sand.xml",
+        "conllu_stats": {
+            "token_count": 118111
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA03702_Sand.xml",
+        "conllu_stats": {
+            "token_count": 98441
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA03704_Sand.xml",
+        "conllu_stats": {
+            "token_count": 155390
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA03802_Stern.xml",
+        "conllu_stats": {
+            "token_count": 81848
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA03903_Stolz.xml",
+        "conllu_stats": {
+            "token_count": 57065
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA04001_Verne.xml",
+        "conllu_stats": {
+            "token_count": 150692
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA04002_Verne.xml",
+        "conllu_stats": {
+            "token_count": 66114
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA04102_Erckmann.xml",
+        "conllu_stats": {
+            "token_count": 73840
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA04202_Rolland.xml",
+        "conllu_stats": {
+            "token_count": 707775
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA04301_Achard.xml",
+        "conllu_stats": {
+            "token_count": 212556
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA04401_Barbusse.xml",
+        "conllu_stats": {
+            "token_count": 145708
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA04501_Barres.xml",
+        "conllu_stats": {
+            "token_count": 37114
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA04601_Bazin.xml",
+        "conllu_stats": {
+            "token_count": 109251
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA04701_Bourget.xml",
+        "conllu_stats": {
+            "token_count": 57826
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA04801_Corday.xml",
+        "conllu_stats": {
+            "token_count": 43129
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA04901_Dumas.xml",
+        "conllu_stats": {
+            "token_count": 265784
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA05101_Eekhoud.xml",
+        "conllu_stats": {
+            "token_count": 56575
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA05201_Feuillet.xml",
+        "conllu_stats": {
+            "token_count": 36757
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA05301_Galopin.xml",
+        "conllu_stats": {
+            "token_count": 57598
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA05401_Kock.xml",
+        "conllu_stats": {
+            "token_count": 121564
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA05501_Lermina.xml",
+        "conllu_stats": {
+            "token_count": 54949
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA05602_Lesueur.xml",
+        "conllu_stats": {
+            "token_count": 250106
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA05702_Maquet.xml",
+        "conllu_stats": {
+            "token_count": 215160
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA05801_Mille.xml",
+        "conllu_stats": {
+            "token_count": 60599
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA05901_Moselly.xml",
+        "conllu_stats": {
+            "token_count": 92870
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA06001_Rebell.xml",
+        "conllu_stats": {
+            "token_count": 62802
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA06101_Sandeau.xml",
+        "conllu_stats": {
+            "token_count": 72756
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA06201_Viel-Castel.xml",
+        "conllu_stats": {
+            "token_count": 68000
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA06301_Montepin.xml",
+        "conllu_stats": {
+            "token_count": 176067
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA06401_Chandeneux.xml",
+        "conllu_stats": {
+            "token_count": 157611
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA06501_Gyp.xml",
+        "conllu_stats": {
+            "token_count": 54700
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA06601_Peladan.xml",
+        "conllu_stats": {
+            "token_count": 89433
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA06701_Uchard.xml",
+        "conllu_stats": {
+            "token_count": 72405
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA06801_Vaillant.xml",
+        "conllu_stats": {
+            "token_count": 85926
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA06901_Vignon.xml",
+        "conllu_stats": {
+            "token_count": 107338
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA07001_Mendes.xml",
+        "conllu_stats": {
+            "token_count": 36726
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA07101_Blondel.xml",
+        "conllu_stats": {
+            "token_count": 48644
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA07201_Montagne.xml",
+        "conllu_stats": {
+            "token_count": 97013
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA07301_Valgand.xml",
+        "conllu_stats": {
+            "token_count": 58140
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA07401_Leblanc.xml",
+        "conllu_stats": {
+            "token_count": 134729
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA07501_Darien.xml",
+        "conllu_stats": {
+            "token_count": 174501
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-fra/master/level1/FRA07601_Leroux.xml",
+        "conllu_stats": {
+            "token_count": 256349
+        }
+    }
+]

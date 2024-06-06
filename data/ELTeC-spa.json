@@ -1,0 +1,602 @@
+[
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1001_GilYCarrasco_ElSenyorDeBembibre.xml",
+        "conllu_stats": {
+            "token_count": 129449
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1002_AlonsoDeAvecilla_LaConquistaDelPeru.xml",
+        "conllu_stats": {
+            "token_count": 69606
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1003_ArnoizYBosch_ElTestamento.xml",
+        "conllu_stats": {
+            "token_count": 140687
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1004_Foz_VidaDePedroSaputo.xml",
+        "conllu_stats": {
+            "token_count": 113011
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1005_FernanCaballero_Clemencia.xml",
+        "conllu_stats": {
+            "token_count": 113026
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1006_AmadoSalzar_ElHonorCastellano.xml",
+        "conllu_stats": {
+            "token_count": 118598
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1007_RosaliaDeCastro_LaHijaDelMar.xml",
+        "conllu_stats": {
+            "token_count": 61329
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1008_Mora_LosTemplarios.xml",
+        "conllu_stats": {
+            "token_count": 256004
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1009_RosDeOlano_ElDiabloLasCarga.xml",
+        "conllu_stats": {
+            "token_count": 18340
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1010_Guerrero_AnatomiaDelCorazon.xml",
+        "conllu_stats": {
+            "token_count": 153971
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1011_Dominguez_DonJuanIdeCastilla.xml",
+        "conllu_stats": {
+            "token_count": 186039
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1012_CarolinaCoronado_Jarilla.xml",
+        "conllu_stats": {
+            "token_count": 57379
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1013_Campoamor_LosManuscritosDeMiPadre.xml",
+        "conllu_stats": {
+            "token_count": 63855
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1014_OrtegaYFrias_Cervantes.xml",
+        "conllu_stats": {
+            "token_count": 329277
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1015_Jover_LasAmarguras.xml",
+        "conllu_stats": {
+            "token_count": 105859
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1016_ManuelTorrijos_LaInfantaDonyaTeresa.xml",
+        "conllu_stats": {
+            "token_count": 87569
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1017_FernanCaballero_Lagrimas.xml",
+        "conllu_stats": {
+            "token_count": 89802
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1018_Andueza_DonFelipe.xml",
+        "conllu_stats": {
+            "token_count": 211948
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1021_GomezDeAvellaneda_Sab.xml",
+        "conllu_stats": {
+            "token_count": 61357
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1022_GomezDeAvellaneda_DosMujeres.xml",
+        "conllu_stats": {
+            "token_count": 96581
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1023_GomezDeAvellaneda_LaVeladaDelHelecho.xml",
+        "conllu_stats": {
+            "token_count": 22791
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1024_FerandezYGonzalez_LossieteinfantesdeLara.xml",
+        "conllu_stats": {
+            "token_count": 165337
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA1025_NavarroVilloslada_DonaBlanca.xml",
+        "conllu_stats": {
+            "token_count": 191984
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2001_EmilioCastelar_Ricardo.xml",
+        "conllu_stats": {
+            "token_count": 106090
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2002_RosaliaDeCastro_ElCaballeroDeLasBotas.xml",
+        "conllu_stats": {
+            "token_count": 89725
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2003_PerezGaldos_Trafalgar.xml",
+        "conllu_stats": {
+            "token_count": 60487
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2004_Alarcon_ElEscandalo.xml",
+        "conllu_stats": {
+            "token_count": 115156
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2005_Alarcon_ElSombreroDeTresPicos.xml",
+        "conllu_stats": {
+            "token_count": 30130
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2006_LlofriuYSagrera_ElNaufragioDelGrumete.xml",
+        "conllu_stats": {
+            "token_count": 20503
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2007_LlofriuYSagrera_GloriaDineroyMujer.xml",
+        "conllu_stats": {
+            "token_count": 38341
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2008_FernanCaballero_UnServilonYUnLibertario.xml",
+        "conllu_stats": {
+            "token_count": 23173
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2009_PerezGaldos_Marianela.xml",
+        "conllu_stats": {
+            "token_count": 59967
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2010_Mart\u00ednezDeVelasco_NocheDeVenganzas.xml",
+        "conllu_stats": {
+            "token_count": 20116
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2011_PastorDeLaRoca_LaCoronaDeFuego.xml",
+        "conllu_stats": {
+            "token_count": 164937
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2012_Altadill_BarcelonaYsusMisterios.xml",
+        "conllu_stats": {
+            "token_count": 330627
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2013_OrtegaYFrias_ElDuende.xml",
+        "conllu_stats": {
+            "token_count": 194323
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2014_OrtegayFrias_UnAnyoEntreLosSalvajes.xml",
+        "conllu_stats": {
+            "token_count": 48267
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2015_Grassi_ElCopoDeNieve.xml",
+        "conllu_stats": {
+            "token_count": 90918
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2016_JuanValera_DonyaLuz.xml",
+        "conllu_stats": {
+            "token_count": 69020
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2017_JuanValera_PepitaJimenez.xml",
+        "conllu_stats": {
+            "token_count": 65953
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2018_LopezBago_LosAmores.xml",
+        "conllu_stats": {
+            "token_count": 65056
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2019_JuanValera_LasIlusionesDelDrFaustino.xml",
+        "conllu_stats": {
+            "token_count": 139122
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2020_Pereda_DonGonzaloGonzalez.xml",
+        "conllu_stats": {
+            "token_count": 103303
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2021_RafaelDelCastillo_LosCaballerosDelAmor.xml",
+        "conllu_stats": {
+            "token_count": 473703
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA2022_Sinues_ElAlmaEnferma.xml",
+        "conllu_stats": {
+            "token_count": 133746
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3001_PerezGaldos_FortunataYJacinta.xml",
+        "conllu_stats": {
+            "token_count": 475850
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3002_LeopoldoAlas_LaRegenta.xml",
+        "conllu_stats": {
+            "token_count": 363030
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3003_LeopoldoAlas_SuUnicoHijo.xml",
+        "conllu_stats": {
+            "token_count": 108539
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3004_PardoBazan_LosPazos.xml",
+        "conllu_stats": {
+            "token_count": 100903
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3005_PardoBazan_LaMadreNaturaleza.xml",
+        "conllu_stats": {
+            "token_count": 108418
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3006_Alarcon_ElCapitanVeneno.xml",
+        "conllu_stats": {
+            "token_count": 26388
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3007_Pereda_Sotileza.xml",
+        "conllu_stats": {
+            "token_count": 139947
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3008_Pereda_PArriba.xml",
+        "conllu_stats": {
+            "token_count": 159278
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3009_BlascoIbanez_ArrozyTartana.xml",
+        "conllu_stats": {
+            "token_count": 107448
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3010_BlascoIbanez_LaBarraca.xml",
+        "conllu_stats": {
+            "token_count": 61919
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3011_Asensi_SantiagoArabal.xml",
+        "conllu_stats": {
+            "token_count": 16248
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3012_Barreras_ElEspadachin.xml",
+        "conllu_stats": {
+            "token_count": 142298
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3013_Coloma_Pequeneces.xml",
+        "conllu_stats": {
+            "token_count": 167929
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3014_Alberola_ElSochantre.xml",
+        "conllu_stats": {
+            "token_count": 49802
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3015_Sawa_LaMujerDeTodoElMundo.xml",
+        "conllu_stats": {
+            "token_count": 45816
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3016_Zamacois_LaEnferma.xml",
+        "conllu_stats": {
+            "token_count": 71832
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3017_RosaliaDeCastro_ElPrimerLoco.xml",
+        "conllu_stats": {
+            "token_count": 36403
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3018_Ganivet_LaConquista.xml",
+        "conllu_stats": {
+            "token_count": 107311
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3019_OctavioPicon_JuanVulgar.xml",
+        "conllu_stats": {
+            "token_count": 37928
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3020_PalacioValdes_Maximina.xml",
+        "conllu_stats": {
+            "token_count": 118314
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3021_Lanza_DesdeLaQuilla.xml",
+        "conllu_stats": {
+            "token_count": 38245
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3022_PalacioValdes_LaEspuma.xml",
+        "conllu_stats": {
+            "token_count": 145244
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3023_OrtegaMunilla_DonJuanSolo.xml",
+        "conllu_stats": {
+            "token_count": 49219
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3024_Rueda_LaGitana.xml",
+        "conllu_stats": {
+            "token_count": 44736
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3025_LopezBago_LaBuscona.xml",
+        "conllu_stats": {
+            "token_count": 49945
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3026_LeopoldoAlas_Pipa.xml",
+        "conllu_stats": {
+            "token_count": 15954
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3027_SelgasYCarrasco_Nona.xml",
+        "conllu_stats": {
+            "token_count": 77166
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3028_PascualDeSanjuan_Flora.xml",
+        "conllu_stats": {
+            "token_count": 112552
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA3029_Blanco_Cercado.xml",
+        "conllu_stats": {
+            "token_count": 48392
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4001_TrigoFelipe_ATodoHonor.xml",
+        "conllu_stats": {
+            "token_count": 19473
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4002_MiroGabriel_LasCerezasDelCementerio.xml",
+        "conllu_stats": {
+            "token_count": 61986
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4003_Unamuno_Niebla.xml",
+        "conllu_stats": {
+            "token_count": 69761
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4004_TrigoFelipe_Jarrapellejos.xml",
+        "conllu_stats": {
+            "token_count": 138841
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4005_ValleInclan_SonataEstio.xml",
+        "conllu_stats": {
+            "token_count": 26533
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4006_Dicenta_LasEsmeraldas.xml",
+        "conllu_stats": {
+            "token_count": 12997
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4007_Colombine_LosInadapatados.xml",
+        "conllu_stats": {
+            "token_count": 52053
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4008_Ciges_Vicario.xml",
+        "conllu_stats": {
+            "token_count": 48391
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4009_ValleInclan_SonataOtonyo.xml",
+        "conllu_stats": {
+            "token_count": 24488
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4010_ValleInclan_Resplandor.xml",
+        "conllu_stats": {
+            "token_count": 29646
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4011_Zamacois_Incesto.xml",
+        "conllu_stats": {
+            "token_count": 44088
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4012_MiroGabriel_ElAbueloDelRey.xml",
+        "conllu_stats": {
+            "token_count": 39663
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4013_MiroGabriel_ElHumoDormido.xml",
+        "conllu_stats": {
+            "token_count": 38122
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4014_Colombine_ElUltimoContrabandista.xml",
+        "conllu_stats": {
+            "token_count": 60913
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4015_Unamuno_AbelSanchez.xml",
+        "conllu_stats": {
+            "token_count": 35804
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4016_Unamuno_AmorPedagogia.xml",
+        "conllu_stats": {
+            "token_count": 59314
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4017_Maetzu_LaGuerraDelTransvaal.xml",
+        "conllu_stats": {
+            "token_count": 202467
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4018_PardoBazan_Misterio.xml",
+        "conllu_stats": {
+            "token_count": 130452
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4019_Bobadilla_AFuegoLento.xml",
+        "conllu_stats": {
+            "token_count": 75529
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4020_Colombine_LaRampa.xml",
+        "conllu_stats": {
+            "token_count": 70890
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4021_Costa_ElUltimoDia.xml",
+        "conllu_stats": {
+            "token_count": 147376
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4022_Lanza_LaRendicionDeSantiago.xml",
+        "conllu_stats": {
+            "token_count": 45995
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4023_OrtegaMunilla_ElPanyoPardo.xml",
+        "conllu_stats": {
+            "token_count": 95812
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4024_BlascoIbanez_SangreYArena.xml",
+        "conllu_stats": {
+            "token_count": 132223
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4025_Coloma_Jeromin.xml",
+        "conllu_stats": {
+            "token_count": 169503
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-spa/master/level1/SPA4026_SoledadGustavo_LasDiosasDeLaVida.xml",
+        "conllu_stats": {
+            "token_count": 21262
+        }
+    }
+]

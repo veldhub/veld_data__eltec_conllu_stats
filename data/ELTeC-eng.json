@@ -1,0 +1,602 @@
+[
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18400_Trollope.xml",
+        "conllu_stats": {
+            "token_count": 242794
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18410_Sinclair.xml",
+        "conllu_stats": {
+            "token_count": 222950
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18411_Tupper.xml",
+        "conllu_stats": {
+            "token_count": 42844
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18440_Disraeli.xml",
+        "conllu_stats": {
+            "token_count": 185866
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18450_Disraeli.xml",
+        "conllu_stats": {
+            "token_count": 100405
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18460_Reynolds.xml",
+        "conllu_stats": {
+            "token_count": 985072
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18470_Aguilar.xml",
+        "conllu_stats": {
+            "token_count": 201411
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18471_Bronte.xml",
+        "conllu_stats": {
+            "token_count": 144628
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18480_Thackeray.xml",
+        "conllu_stats": {
+            "token_count": 203193
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18481_Dickens.xml",
+        "conllu_stats": {
+            "token_count": 93472
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18482_Gaskell.xml",
+        "conllu_stats": {
+            "token_count": 191269
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18490_Skene.xml",
+        "conllu_stats": {
+            "token_count": 38281
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18500_Ainsworth.xml",
+        "conllu_stats": {
+            "token_count": 29300
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18510_Kingsley.xml",
+        "conllu_stats": {
+            "token_count": 79764
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18530_Dickens.xml",
+        "conllu_stats": {
+            "token_count": 213477
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18531_Yonge.xml",
+        "conllu_stats": {
+            "token_count": 278465
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18540_Dickens.xml",
+        "conllu_stats": {
+            "token_count": 114421
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18551_Trollope.xml",
+        "conllu_stats": {
+            "token_count": 85208
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18552_Kavanagh.xml",
+        "conllu_stats": {
+            "token_count": 60770
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18560_Yonge.xml",
+        "conllu_stats": {
+            "token_count": 359530
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18570_Bronte.xml",
+        "conllu_stats": {
+            "token_count": 55331
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18600_Clive.xml",
+        "conllu_stats": {
+            "token_count": 39842
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18610_Eliot.xml",
+        "conllu_stats": {
+            "token_count": 85956
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18621_Braddon.xml",
+        "conllu_stats": {
+            "token_count": 179048
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18630_Craik.xml",
+        "conllu_stats": {
+            "token_count": 133467
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18632_Reade.xml",
+        "conllu_stats": {
+            "token_count": 145204
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18640_Blackmore.xml",
+        "conllu_stats": {
+            "token_count": 233341
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18641_Stretton.xml",
+        "conllu_stats": {
+            "token_count": 50336
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18650_Trollope.xml",
+        "conllu_stats": {
+            "token_count": 370120
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18651_Yonge.xml",
+        "conllu_stats": {
+            "token_count": 103031
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18652_Carroll.xml",
+        "conllu_stats": {
+            "token_count": 22386
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18660_Eliot.xml",
+        "conllu_stats": {
+            "token_count": 212621
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18661_Oliphant.xml",
+        "conllu_stats": {
+            "token_count": 240740
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18670_Ouida.xml",
+        "conllu_stats": {
+            "token_count": 292801
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18700_Oliphant.xml",
+        "conllu_stats": {
+            "token_count": 82716
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18702_Jenkins.xml",
+        "conllu_stats": {
+            "token_count": 18030
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18720_Lynn.xml",
+        "conllu_stats": {
+            "token_count": 25018
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18721_Eliot.xml",
+        "conllu_stats": {
+            "token_count": 367987
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18740_Ouida.xml",
+        "conllu_stats": {
+            "token_count": 64537
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18741_Bulwer.xml",
+        "conllu_stats": {
+            "token_count": 150528
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18742_Trollope.xml",
+        "conllu_stats": {
+            "token_count": 25871
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18760_Collins.xml",
+        "conllu_stats": {
+            "token_count": 51442
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18770_Mallock.xml",
+        "conllu_stats": {
+            "token_count": 85681
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18800_Disraeli.xml",
+        "conllu_stats": {
+            "token_count": 110375
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18820_Anstey.xml",
+        "conllu_stats": {
+            "token_count": 113889
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18830_Broughton.xml",
+        "conllu_stats": {
+            "token_count": 169639
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18831_Ouida.xml",
+        "conllu_stats": {
+            "token_count": 107233
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18840_Lee.xml",
+        "conllu_stats": {
+            "token_count": 95202
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18850_Rutherford.xml",
+        "conllu_stats": {
+            "token_count": 41645
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18860_Hardy.xml",
+        "conllu_stats": {
+            "token_count": 71300
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18870_Barry.xml",
+        "conllu_stats": {
+            "token_count": 256750
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18871_Broughton.xml",
+        "conllu_stats": {
+            "token_count": 170781
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18872_Lyall.xml",
+        "conllu_stats": {
+            "token_count": 9454
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18880_Ward.xml",
+        "conllu_stats": {
+            "token_count": 334949
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18890_Nesbit.xml",
+        "conllu_stats": {
+            "token_count": 116883
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18900_Doyle.xml",
+        "conllu_stats": {
+            "token_count": 51452
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18901_Broughton.xml",
+        "conllu_stats": {
+            "token_count": 178897
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18910_Yeats.xml",
+        "conllu_stats": {
+            "token_count": 16691
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18911_Gissing.xml",
+        "conllu_stats": {
+            "token_count": 221659
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18920_Grossmith.xml",
+        "conllu_stats": {
+            "token_count": 51318
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18930_Benson.xml",
+        "conllu_stats": {
+            "token_count": 102118
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18931_Harraden.xml",
+        "conllu_stats": {
+            "token_count": 45605
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18940_Dixon.xml",
+        "conllu_stats": {
+            "token_count": 37998
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18941_Caird.xml",
+        "conllu_stats": {
+            "token_count": 92953
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18950_Cross.xml",
+        "conllu_stats": {
+            "token_count": 21108
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18951_Ward.xml",
+        "conllu_stats": {
+            "token_count": 19014
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18952_Wells.xml",
+        "conllu_stats": {
+            "token_count": 38024
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18953_Macdonald.xml",
+        "conllu_stats": {
+            "token_count": 111903
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18954_Sharp.xml",
+        "conllu_stats": {
+            "token_count": 43978
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18960_Malet.xml",
+        "conllu_stats": {
+            "token_count": 39526
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18961_Griffiths.xml",
+        "conllu_stats": {
+            "token_count": 44698
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18970_Phillpots.xml",
+        "conllu_stats": {
+            "token_count": 149595
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18972_Morris.xml",
+        "conllu_stats": {
+            "token_count": 167663
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18973_Cholmondeley.xml",
+        "conllu_stats": {
+            "token_count": 15292
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG18980_BaringGould.xml",
+        "conllu_stats": {
+            "token_count": 50747
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19001_Glyn.xml",
+        "conllu_stats": {
+            "token_count": 66791
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19004_Fowler.xml",
+        "conllu_stats": {
+            "token_count": 124795
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19005_Steel.xml",
+        "conllu_stats": {
+            "token_count": 144950
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19010_Mason.xml",
+        "conllu_stats": {
+            "token_count": 106935
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19011_Jerome.xml",
+        "conllu_stats": {
+            "token_count": 14387
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19020_Nesbit.xml",
+        "conllu_stats": {
+            "token_count": 34627
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19060_Nesbit.xml",
+        "conllu_stats": {
+            "token_count": 43795
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19070_Machen.xml",
+        "conllu_stats": {
+            "token_count": 71916
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19071_Silberrad.xml",
+        "conllu_stats": {
+            "token_count": 133886
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19080_Chesterton.xml",
+        "conllu_stats": {
+            "token_count": 28653
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19090_Wells.xml",
+        "conllu_stats": {
+            "token_count": 162510
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19091_Ward.xml",
+        "conllu_stats": {
+            "token_count": 32606
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19100_Forster.xml",
+        "conllu_stats": {
+            "token_count": 135718
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19111_Hornung.xml",
+        "conllu_stats": {
+            "token_count": 40120
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19120_Wells.xml",
+        "conllu_stats": {
+            "token_count": 176478
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19121_Belloc.xml",
+        "conllu_stats": {
+            "token_count": 104096
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19150_Buchan.xml",
+        "conllu_stats": {
+            "token_count": 22683
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19170_Conrad.xml",
+        "conllu_stats": {
+            "token_count": 27595
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19180_Lewis.xml",
+        "conllu_stats": {
+            "token_count": 71534
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19181_West.xml",
+        "conllu_stats": {
+            "token_count": 33039
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19190_Benson.xml",
+        "conllu_stats": {
+            "token_count": 51334
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19191_Hamilton.xml",
+        "conllu_stats": {
+            "token_count": 70385
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19192_Woolf.xml",
+        "conllu_stats": {
+            "token_count": 107152
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19200_Lawrence.xml",
+        "conllu_stats": {
+            "token_count": 102784
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-eng/master/level1/ENG19201_Arlen.xml",
+        "conllu_stats": {
+            "token_count": 38383
+        }
+    }
+]

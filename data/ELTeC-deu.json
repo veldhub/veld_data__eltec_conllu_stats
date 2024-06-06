@@ -1,0 +1,602 @@
+[
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU001.xml",
+        "conllu_stats": {
+            "token_count": 300943
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU002.xml",
+        "conllu_stats": {
+            "token_count": 62558
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU003.xml",
+        "conllu_stats": {
+            "token_count": 84881
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU004.xml",
+        "conllu_stats": {
+            "token_count": 53753
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU005.xml",
+        "conllu_stats": {
+            "token_count": 201478
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU006.xml",
+        "conllu_stats": {
+            "token_count": 12
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU007.xml",
+        "conllu_stats": {
+            "token_count": 80726
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU008.xml",
+        "conllu_stats": {
+            "token_count": 28732
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU009.xml",
+        "conllu_stats": {
+            "token_count": 91469
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU010.xml",
+        "conllu_stats": {
+            "token_count": 57323
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU011.xml",
+        "conllu_stats": {
+            "token_count": 323188
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU012.xml",
+        "conllu_stats": {
+            "token_count": 27313
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU013.xml",
+        "conllu_stats": {
+            "token_count": 70462
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU014.xml",
+        "conllu_stats": {
+            "token_count": 117997
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU015.xml",
+        "conllu_stats": {
+            "token_count": 167777
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU016.xml",
+        "conllu_stats": {
+            "token_count": 167118
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU017.xml",
+        "conllu_stats": {
+            "token_count": 40463
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU018.xml",
+        "conllu_stats": {
+            "token_count": 100826
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU019.xml",
+        "conllu_stats": {
+            "token_count": 56315
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU020.xml",
+        "conllu_stats": {
+            "token_count": 124962
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU021.xml",
+        "conllu_stats": {
+            "token_count": 108593
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU022.xml",
+        "conllu_stats": {
+            "token_count": 102041
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU023.xml",
+        "conllu_stats": {
+            "token_count": 42872
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU024.xml",
+        "conllu_stats": {
+            "token_count": 863577
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU025.xml",
+        "conllu_stats": {
+            "token_count": 193444
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU026.xml",
+        "conllu_stats": {
+            "token_count": 75489
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU027.xml",
+        "conllu_stats": {
+            "token_count": 71294
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU028.xml",
+        "conllu_stats": {
+            "token_count": 104288
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU029.xml",
+        "conllu_stats": {
+            "token_count": 93691
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU030.xml",
+        "conllu_stats": {
+            "token_count": 289596
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU031.xml",
+        "conllu_stats": {
+            "token_count": 130207
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU032.xml",
+        "conllu_stats": {
+            "token_count": 80022
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU033.xml",
+        "conllu_stats": {
+            "token_count": 36407
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU034.xml",
+        "conllu_stats": {
+            "token_count": 93782
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU035.xml",
+        "conllu_stats": {
+            "token_count": 252500
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU036.xml",
+        "conllu_stats": {
+            "token_count": 280091
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU037.xml",
+        "conllu_stats": {
+            "token_count": 139649
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU038.xml",
+        "conllu_stats": {
+            "token_count": 160366
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU039.xml",
+        "conllu_stats": {
+            "token_count": 217372
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU040.xml",
+        "conllu_stats": {
+            "token_count": 112387
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU041.xml",
+        "conllu_stats": {
+            "token_count": 100259
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU042.xml",
+        "conllu_stats": {
+            "token_count": 212298
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU043.xml",
+        "conllu_stats": {
+            "token_count": 310119
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU044.xml",
+        "conllu_stats": {
+            "token_count": 242549
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU045.xml",
+        "conllu_stats": {
+            "token_count": 311891
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU046.xml",
+        "conllu_stats": {
+            "token_count": 36983
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU047.xml",
+        "conllu_stats": {
+            "token_count": 53041
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU048.xml",
+        "conllu_stats": {
+            "token_count": 675873
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU049.xml",
+        "conllu_stats": {
+            "token_count": 141589
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU050.xml",
+        "conllu_stats": {
+            "token_count": 131318
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU051.xml",
+        "conllu_stats": {
+            "token_count": 37182
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU052.xml",
+        "conllu_stats": {
+            "token_count": 57283
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU053.xml",
+        "conllu_stats": {
+            "token_count": 67055
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU054.xml",
+        "conllu_stats": {
+            "token_count": 171409
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU055.xml",
+        "conllu_stats": {
+            "token_count": 61787
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU056.xml",
+        "conllu_stats": {
+            "token_count": 112250
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU057.xml",
+        "conllu_stats": {
+            "token_count": 92318
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU058.xml",
+        "conllu_stats": {
+            "token_count": 38595
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU059.xml",
+        "conllu_stats": {
+            "token_count": 59124
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU060.xml",
+        "conllu_stats": {
+            "token_count": 20124
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU061.xml",
+        "conllu_stats": {
+            "token_count": 272790
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU062.xml",
+        "conllu_stats": {
+            "token_count": 133542
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU063.xml",
+        "conllu_stats": {
+            "token_count": 35725
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU064.xml",
+        "conllu_stats": {
+            "token_count": 44171
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU065.xml",
+        "conllu_stats": {
+            "token_count": 64447
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU066.xml",
+        "conllu_stats": {
+            "token_count": 144285
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU067.xml",
+        "conllu_stats": {
+            "token_count": 181108
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU068.xml",
+        "conllu_stats": {
+            "token_count": 47490
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU069.xml",
+        "conllu_stats": {
+            "token_count": 89523
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU070.xml",
+        "conllu_stats": {
+            "token_count": 47466
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU071.xml",
+        "conllu_stats": {
+            "token_count": 63402
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU072.xml",
+        "conllu_stats": {
+            "token_count": 61460
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU073.xml",
+        "conllu_stats": {
+            "token_count": 99532
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU074.xml",
+        "conllu_stats": {
+            "token_count": 78528
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU075.xml",
+        "conllu_stats": {
+            "token_count": 50970
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU076.xml",
+        "conllu_stats": {
+            "token_count": 148797
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU077.xml",
+        "conllu_stats": {
+            "token_count": 69884
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU078.xml",
+        "conllu_stats": {
+            "token_count": 110732
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU079.xml",
+        "conllu_stats": {
+            "token_count": 69175
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU080.xml",
+        "conllu_stats": {
+            "token_count": 33583
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU081.xml",
+        "conllu_stats": {
+            "token_count": 198375
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU082.xml",
+        "conllu_stats": {
+            "token_count": 131383
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU083.xml",
+        "conllu_stats": {
+            "token_count": 22530
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU084.xml",
+        "conllu_stats": {
+            "token_count": 192408
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU085.xml",
+        "conllu_stats": {
+            "token_count": 195614
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU086.xml",
+        "conllu_stats": {
+            "token_count": 42194
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU087.xml",
+        "conllu_stats": {
+            "token_count": 54541
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU088.xml",
+        "conllu_stats": {
+            "token_count": 37651
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU089.xml",
+        "conllu_stats": {
+            "token_count": 169871
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU090.xml",
+        "conllu_stats": {
+            "token_count": 23919
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU091.xml",
+        "conllu_stats": {
+            "token_count": 124
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU092.xml",
+        "conllu_stats": {
+            "token_count": 44737
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU093.xml",
+        "conllu_stats": {
+            "token_count": 37826
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU094.xml",
+        "conllu_stats": {
+            "token_count": 134279
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU095.xml",
+        "conllu_stats": {
+            "token_count": 51052
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU096.xml",
+        "conllu_stats": {
+            "token_count": 82496
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU097.xml",
+        "conllu_stats": {
+            "token_count": 51319
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU098.xml",
+        "conllu_stats": {
+            "token_count": 38028
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU099.xml",
+        "conllu_stats": {
+            "token_count": 74782
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-deu/master/level1/DEU100.xml",
+        "conllu_stats": {
+            "token_count": 48349
+        }
+    }
+]

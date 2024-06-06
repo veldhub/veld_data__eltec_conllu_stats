@@ -1,0 +1,602 @@
+[
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0001_1855_Stroupeznicka_Boure.xml",
+        "conllu_stats": {
+            "token_count": 13560
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0002_1857_Janda-Cidlinsky_Jaroslav.xml",
+        "conllu_stats": {
+            "token_count": 32907
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0003_1857_Zizala-Donovsky_Karbanik-a-rodina-jeho.xml",
+        "conllu_stats": {
+            "token_count": 32850
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0004_1857_Ehrenberg_Vitezstvi-u-Horine.xml",
+        "conllu_stats": {
+            "token_count": 35113
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0005_1857_Kricensky_Lichvar-a-pokoutnik.xml",
+        "conllu_stats": {
+            "token_count": 50540
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0006_1857_Pravda_Krejci-Fortunat.xml",
+        "conllu_stats": {
+            "token_count": 45812
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0007_1857_Prokop_Jeden-rok-z-mladeho-zivota.xml",
+        "conllu_stats": {
+            "token_count": 41138
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0008_1858_Formanek-Cinovesky_Bitva-u-Nyrska.xml",
+        "conllu_stats": {
+            "token_count": 31231
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0009_1860_Formanek-Cinovesky_Smirena-vina.xml",
+        "conllu_stats": {
+            "token_count": 46682
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0010_1860_Sabina_Jen-tri-leta.xml",
+        "conllu_stats": {
+            "token_count": 37008
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0011_1864_Svestka_Posledni-vecer-v-roce.xml",
+        "conllu_stats": {
+            "token_count": 20348
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0012_1867_Chocholousek_Templari-v-Cechach.xml",
+        "conllu_stats": {
+            "token_count": 73229
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0013_1867_Mollenda_Vecer-svatojansky.xml",
+        "conllu_stats": {
+            "token_count": 16706
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0014_1870_Vlcek_Pani-Lichnicka.xml",
+        "conllu_stats": {
+            "token_count": 53733
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0015_1874_Vavra_Ratmir.xml",
+        "conllu_stats": {
+            "token_count": 16715
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0016_1875_Jirasek_Skalaci.xml",
+        "conllu_stats": {
+            "token_count": 97085
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0017_1878_Stasek_Nedokonceny-obraz.xml",
+        "conllu_stats": {
+            "token_count": 95194
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0018_1881_Svestka_Pravy-pritel.xml",
+        "conllu_stats": {
+            "token_count": 13014
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0019_1881_Vitek_Dva-nestejni-bratri.xml",
+        "conllu_stats": {
+            "token_count": 13105
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0020_1885_Karas_Cesky-plavec-na-severu.xml",
+        "conllu_stats": {
+            "token_count": 12755
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0021_1891_Unger_Mlada-knezna-abatyse.xml",
+        "conllu_stats": {
+            "token_count": 24475
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0022_1896_Kuchar_Paserova-Anezka.xml",
+        "conllu_stats": {
+            "token_count": 17950
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0023_1899_Vikova-Kuneticka_Silhouetty-muzu.xml",
+        "conllu_stats": {
+            "token_count": 26913
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0024_1853_Pravda_Zenich-se-ctyrmi-sty-zlatymi.xml",
+        "conllu_stats": {
+            "token_count": 12564
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0025_1855_Nemcova_Babicka.xml",
+        "conllu_stats": {
+            "token_count": 93813
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0026_1856_Nemcova_Pohorska-vesnice.xml",
+        "conllu_stats": {
+            "token_count": 81006
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0027_1858_Pfleger-Moravsky_Dva-umelci.xml",
+        "conllu_stats": {
+            "token_count": 44571
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0028_1866_Krousky_Bratri-z-kalichu.xml",
+        "conllu_stats": {
+            "token_count": 139770
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0029_1868_Svetla_Kriz-u-potoka.xml",
+        "conllu_stats": {
+            "token_count": 102641
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0030_1869_Hruby-Bradelsky_Bratri-smrti.xml",
+        "conllu_stats": {
+            "token_count": 22351
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0031_1870_Sabina_Ozivene-hroby.xml",
+        "conllu_stats": {
+            "token_count": 61472
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0032_1872_Stankovsky_Kral-a-biskup.xml",
+        "conllu_stats": {
+            "token_count": 85478
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0033_1873_Svetla_Nemodlenec.xml",
+        "conllu_stats": {
+            "token_count": 102292
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0034_1874_Ptacek_Dva-bratri.xml",
+        "conllu_stats": {
+            "token_count": 18558
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0035_1876_Svetla_Cerny-petricek.xml",
+        "conllu_stats": {
+            "token_count": 35179
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0036_1878_Arbes_Newtonuv-mozek.xml",
+        "conllu_stats": {
+            "token_count": 26393
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0037_1878_Podlipska_Nalzovsky.xml",
+        "conllu_stats": {
+            "token_count": 101546
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0038_1878_Stroupeznicky_Cavani.xml",
+        "conllu_stats": {
+            "token_count": 37509
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0039_1879_Klicpera_Bitva-u-Lipan.xml",
+        "conllu_stats": {
+            "token_count": 69777
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0040_1881_Vinaricky_Tajnosti-Svatovaclavske-trestnice.xml",
+        "conllu_stats": {
+            "token_count": 103440
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0041_1883_Kostelecky_Z-lasky.xml",
+        "conllu_stats": {
+            "token_count": 58394
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0042_1885_Reznicek_Povidka-o-Viktorce.xml",
+        "conllu_stats": {
+            "token_count": 59729
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0043_1886_Jirasek_Psohlavci.xml",
+        "conllu_stats": {
+            "token_count": 86706
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0044_1886_Zitek_Drama-rodiny-pana-Daniele.xml",
+        "conllu_stats": {
+            "token_count": 69570
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0045_1887_Arbes_Kandidati-existence.xml",
+        "conllu_stats": {
+            "token_count": 81702
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0046_1887_Skaba_Masopust-v-Sobeslavi.xml",
+        "conllu_stats": {
+            "token_count": 64382
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0047_1888_Cech_Pravy-vylet-pana-Broucka-do-Mesice.xml",
+        "conllu_stats": {
+            "token_count": 29816
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0048_1889_Simacek_Bratri.xml",
+        "conllu_stats": {
+            "token_count": 69622
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0049_1889_Slejhar_Kure-melancholik.xml",
+        "conllu_stats": {
+            "token_count": 19033
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0050_1889_Cech_Novy-epochalni-vylet-pana-Broucka.xml",
+        "conllu_stats": {
+            "token_count": 56379
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0051_1890_Arbes_Andel-miru.xml",
+        "conllu_stats": {
+            "token_count": 196706
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0052_1890_Jirasek_Filosofska-historie.xml",
+        "conllu_stats": {
+            "token_count": 38120
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0053_1890_Slama_Rytir-Kobylka.xml",
+        "conllu_stats": {
+            "token_count": 71624
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0054_1891_Zeyer_Jan-Maria-Plojhar.xml",
+        "conllu_stats": {
+            "token_count": 117086
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0055_1893_Jelinek_Motylek-z-norske-pohadky.xml",
+        "conllu_stats": {
+            "token_count": 53307
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0056_1893_Klostermann_V-raji-sumavskem.xml",
+        "conllu_stats": {
+            "token_count": 96492
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0057_1893_Mrstik_Santa-Lucia.xml",
+        "conllu_stats": {
+            "token_count": 115224
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0058_1894_Adamec_Jakub-Prochazka.xml",
+        "conllu_stats": {
+            "token_count": 8629
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0059_1894_Klostermann_Ze-sveta-lesnich-samot.xml",
+        "conllu_stats": {
+            "token_count": 86174
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0060_1894_Rais_Zapadli-vlastenci.xml",
+        "conllu_stats": {
+            "token_count": 124577
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0061_1895_Capek-Chod_V-tretim-dvore.xml",
+        "conllu_stats": {
+            "token_count": 69559
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0062_1895_Rais_Kalibuv-zlocin.xml",
+        "conllu_stats": {
+            "token_count": 64868
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0063_1884_Bubnik_V-temnotach-bludu.xml",
+        "conllu_stats": {
+            "token_count": 78515
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0064_1896_Klostermann_Sklari.xml",
+        "conllu_stats": {
+            "token_count": 99697
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0065_1897_Mrstik_Pohadka-maje.xml",
+        "conllu_stats": {
+            "token_count": 132223
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0066_1897_Popelkova_Za-jeden-hrich.xml",
+        "conllu_stats": {
+            "token_count": 79655
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0067_1898_Baar_Makabejsti.xml",
+        "conllu_stats": {
+            "token_count": 79134
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0068_1899_Zahradnik-Brodsky_Rodina-Sillerova.xml",
+        "conllu_stats": {
+            "token_count": 96291
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0069_1899_Konrad_Druha-laska.xml",
+        "conllu_stats": {
+            "token_count": 83434
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0070_1899_Rais_Zapad.xml",
+        "conllu_stats": {
+            "token_count": 102283
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0071_1899_Svobodova_Zamotana-vlakna.xml",
+        "conllu_stats": {
+            "token_count": 88474
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0072_1902_Benes-Sumavsky_Otrokar.xml",
+        "conllu_stats": {
+            "token_count": 86777
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0073_1902_Hrdina_Vlastni-silou.xml",
+        "conllu_stats": {
+            "token_count": 82357
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0074_1892_Heller_Roman-na-mori.xml",
+        "conllu_stats": {
+            "token_count": 65469
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0075_1906_Necasek_Jarmo-millionu.xml",
+        "conllu_stats": {
+            "token_count": 80763
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0076_1908_Baar_Jan-Cimbura.xml",
+        "conllu_stats": {
+            "token_count": 138004
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0077_1908_Malirova_Pravo-na-stesti.xml",
+        "conllu_stats": {
+            "token_count": 85706
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0078_1909_Mahen_Kamaradi-svobody.xml",
+        "conllu_stats": {
+            "token_count": 117009
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0079_1909_Winter_Mistr-Kampanus.xml",
+        "conllu_stats": {
+            "token_count": 175619
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0080_1900_Cervinka_Boj-s-kapitalem.xml",
+        "conllu_stats": {
+            "token_count": 87594
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0081_1912_Ladecky_Na-tichem-venkove.xml",
+        "conllu_stats": {
+            "token_count": 54592
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0082_1912_Salda_Zivot-ironicky.xml",
+        "conllu_stats": {
+            "token_count": 25402
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0083_1913_Cecetka_Kralovsky-rychtar.xml",
+        "conllu_stats": {
+            "token_count": 77992
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0084_1914_Cervinka_Rusalka.xml",
+        "conllu_stats": {
+            "token_count": 65026
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0085_1915_Dyk_Krysar.xml",
+        "conllu_stats": {
+            "token_count": 20326
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0086_1915_Karas_Do-ctyr-artikulu.xml",
+        "conllu_stats": {
+            "token_count": 140844
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0087_1915_Smilovsky_Parnassie.xml",
+        "conllu_stats": {
+            "token_count": 47308
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0088_1916_Capek-Chod_Turbina.xml",
+        "conllu_stats": {
+            "token_count": 138358
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0089_1916_Chocholousek_Karel-IV-a-rimsky-tribun-lidu.xml",
+        "conllu_stats": {
+            "token_count": 107894
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0090_1916_Sova_Ivuv-roman.xml",
+        "conllu_stats": {
+            "token_count": 81588
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0091_1917_Salda_Loutky-i-delnici-bozi.xml",
+        "conllu_stats": {
+            "token_count": 60026
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0092_1918_Herrmann_Vdavky-Nanynky-Kulichovy.xml",
+        "conllu_stats": {
+            "token_count": 84925
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0093_1918_Klecanda_Pravo-mladi.xml",
+        "conllu_stats": {
+            "token_count": 61379
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0094_1918_Vlasakova_Myslivcova-dceruska.xml",
+        "conllu_stats": {
+            "token_count": 44018
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0095_1920_Hasek_Osudy-dobreho-vojaka-Svejka.xml",
+        "conllu_stats": {
+            "token_count": 146809
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0096_1900_Filip_Markyza-s-trojim-srdcem.xml",
+        "conllu_stats": {
+            "token_count": 69382
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0097_1901_Javornik_Svaty-Hostyn.xml",
+        "conllu_stats": {
+            "token_count": 88384
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0098_1904_Vlcek_Golgota-i-Tabor.xml",
+        "conllu_stats": {
+            "token_count": 72231
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0099_1909_Kopal_Apostol-trhanu.xml",
+        "conllu_stats": {
+            "token_count": 56672
+        }
+    },
+    {
+        "resource_uri": "https://raw.githubusercontent.com/COST-ELTeC/ELTeC-cze/master/level1/CS0100_1914_Baar_K-bohu.xml",
+        "conllu_stats": {
+            "token_count": 99295
+        }
+    }
+]
