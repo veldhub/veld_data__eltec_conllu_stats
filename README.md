@@ -1,9 +1,9 @@
-
-# veld_data_16_eltec_conllu_stats
+# veld_data__eltec_conllu_stats
 
 Statistics on conllu data inferenced with udpipe on eltec corpora.
 
-veld chain can be found here: https://github.com/acdh-oeaw/veld_chain_14_eltec_udpipe_inference
+This repo and its data is the output of this chain veld repo: 
+https://github.com/veldhub/veld_chain__eltec_udpipe_inference
 
 ## statistics
 
